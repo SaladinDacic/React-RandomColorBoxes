@@ -1,0 +1,15 @@
+.BoxList{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.BoxList-allColors{
+    width: 55vw;
+    height: 30vh;
+    /* position: absolute; */
+}
+.BoxList-button{
+    transform: translateY(455px);
+    position: static;
+}
